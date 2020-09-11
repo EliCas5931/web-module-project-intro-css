@@ -73,7 +73,7 @@ body {
 }
 
 .logoImage {
-    width: 12rem;
+    width: 100%;
     display: inline-block;
     text-align: center;
 }
@@ -87,7 +87,7 @@ h2 {
     font-size: .75rem;
 }
 
-.textContainer h1, .textContainer h2 {
+.logoImage h1, .logoImage h2 {
     margin: 1.75rem;
 }
 
